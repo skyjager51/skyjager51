@@ -1,8 +1,8 @@
 
 # 💫 About Me:
 # Hi there 👋, I'm Lorenzo Faccio  <br><br>🎓 I'm a **Computer Science student at OPIT – Open Institute of Technology**.  <br>💡 I'm proactive and love participating in projects and developing new ideas.  <br>☁️ I'm especially interested in **backend development** and **cloud technologies (AWS)**. 
-## 🌱 I'm currently working on<br>- A personal project with **Spring Boot**.  <br>- Preparing for the **AWS Certified Developer – Associate** exam.  <br>- An **IaC scanner** with a fancy web UI for the *Amazon University Engagement Program*.  <br>- An **e-commerce site** with my university friends.  <br>- Exploring **frontend development**.  
-## 📚 I'm currently learning<br>- **Java & Spring Boot** for backend development and html/css/js/react for frontend.  <br>- **AWS Cloud certifications**.  <br>- *(Future goals)* introductory **cybersecurity** skills.  
+## 🌱 I'm currently working on<br>- A personal project with **Spring Boot**.  <br>- Preparing for the **AWS Certified Developer – Associate** exam.  <br>- An **IaC scanner** with a fancy web UI for the *Amazon University Engagement Program*.  <br>- Exploring **frontend development**.  
+## 📚 I'm currently learning<br>- **Docker & Kubernetes** for backend development and html/css/js/react for frontend.  <br>- **AWS Cloud certifications**.  <br>- *(Future goals)* introductory **cybersecurity** skills.  
 ## 📫 Contact me<br>If you’d like to know me better or collaborate:  <br>👉 You can search for Lorenzo Faccio on LinkedIn!<br><br>---<br><br>✨ Thanks for visiting my profile!  
 
 
