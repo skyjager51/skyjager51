@@ -1,7 +1,6 @@
 
-# About Me:
 # Hi there 👋, I'm Lorenzo Faccio  <br><br>🎓 I'm a **Computer Science student at OPIT – Open Institute of Technology**.  <br>💡 I'm proactive and love participating in projects and developing new ideas.  <br>☁️ I'm especially interested in **backend development** and **cloud technologies (AWS)**.    
-## Contact me<br>If you’d like to know me better or collaborate:  <br>You can search for Lorenzo Faccio on LinkedIn!<br><br><br>✨ Thanks for visiting my profile!  
+## Contact me<br>If you’d like to know me better or collaborate: You can search for Lorenzo Faccio on LinkedIn!<br><br><br>✨ Thanks for visiting my profile!  
 
 
 ## 🌐 Socials:
